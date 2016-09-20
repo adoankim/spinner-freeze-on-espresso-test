@@ -9,7 +9,7 @@ This project show the behaviour of Espresso test in Activities with:
  - Spinner
 
 When the Spinner drops down, the tests pass.
-When the Spinner drops up, the tests fail (it freeze).
+When the Spinner drops up, the tests fail ([it freeze](https://raw.githubusercontent.com/adoankim/spinner-freeze-on-espresso-test/master/stack_trace.log)).
 
 Activities and layouts are the same, just adding a margin to the spinner to force drop up.
 
