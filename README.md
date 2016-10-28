@@ -1,4 +1,4 @@
-Espresso Test Spinner freeze (Appcompat-v7 24.2.0)
+Espresso Test Spinner freeze (Appcompat-v7 24.2.0, 24.2.1 and 25.0.0)
 ================================================
 
 This project show the behaviour of Espresso test in Activities with:
